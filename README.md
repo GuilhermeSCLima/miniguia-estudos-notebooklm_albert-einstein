@@ -224,7 +224,7 @@ Esses testes mostraram a importância da engenharia de prompts para obter respos
 
 ---
 
-![[MAPA MENTAL.png]]
+![Mapa mental](./MAPA_MENTAL.png)
 
 ---
 
